@@ -10,3 +10,8 @@ Settings
     "match_ptrns": ["https://*/*"]
 }
 ```
+
+Other notable options:
+
+- [chrome-extension-boilerplate](https://github.com/duo-labs/chrome-extension-boilerplate)
+- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate)
